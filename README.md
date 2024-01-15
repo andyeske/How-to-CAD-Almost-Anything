@@ -66,16 +66,23 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 <p align="center">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%201/Cake.png" width="500"> 
-A Colorful Cake.
+</p>
+
+<p align="center">
+**Figure:** A Colorful Cake.
 </p>
 
 <p align="center">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%201/iPhone6.png" width="500">
+</p>
+<p align="center">
 An attempt at an iPhone6.
 </p>
 
 <p align="center">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%201/N2Pencil.png" width="500">
+</p>
+<p align="center">
 A #2 Pencil.
 </p>
 

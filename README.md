@@ -62,7 +62,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%201) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -83,7 +83,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%202) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -105,7 +105,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%203) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -127,7 +127,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%204) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -144,7 +144,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%205) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -161,7 +161,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%206) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -178,7 +178,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%207) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -195,7 +195,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%208) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -212,6 +212,6 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Recordings:** To be posted.
 
-**Class Slides:** To be posted.
+**Class Slides:** Available at the [Session 9](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%209) folder.
 
 ([ back to top ](#back_to_top))

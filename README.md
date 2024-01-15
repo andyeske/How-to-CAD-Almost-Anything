@@ -43,7 +43,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 ---
 <a name="S1"></a>
-### Session 1: Introduction to Solidworks.
+### Session 1: Introduction to Solidworks!
 (Tuesday, January 16)
 
 **Objective:** In this session, we’ll get ourselves acquainted with the Solidworks workspace, and start learning some of the most used tools. Session 1's goals include:
@@ -89,7 +89,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 ---
 <a name="S3"></a>
-### Session 3: All about symmetry, patterns and planes (that don’t fly)
+### Session 3: All about symmetry, patterns and planes (that don’t fly)!
 (Friday, January 19)
 
 **Objective:** In this session, we’ll focus our attention to symmetry, patterns and planes, and how we can leverage certain tools to simplify the design process. Session 3’s goals include: 
@@ -133,14 +133,20 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 ---
 <a name="S5"></a>
-### Session 5: Let's have a 3D-modeled Coke in Space
+### Session 5: Let's have a 3D-modeled Coke in Space!
 (Wednesday, January 24)
 
-**Objective:**
+**Objective:** In this session, we’ll revise all of our previously learned commands (+ the useful wrap), to make sure we know how to properly use all of them. Session 5’s goals include: 
+*	Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties. 
+*	Learning how to employ the wrap command (for engravings).
+*	Making renders using Solidworks’ in-house tool.
 
-**Session Activity:**
+**Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
+*	A Diet Coke 12oz can (with labels included). 
+*	A realistic-looking Saturn V rocket. 
+*	Optional: an [MIT Brass Rat](https://koblenzestatejewelry.com/wp-content/uploads/2021/10/15980FGoldBrassRatMITRing.jpg) ring. 
 
-**To do (optional):**
+**To do (optional):** Add 2 (or 3) slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
 **Class Recordings:** To be posted.
 
@@ -153,11 +159,17 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 ### Session 6: Living in a world made from plastic bricks 
 (Friday, January 26)
 
-**Objective:**
+**Objective:** In this session, we’ll move towards one of the most powerful features within Solidworks, which is that of making assemblies! Session 6’s goals include: 
+*	Learning how to make an assembly of multiple parts.
+*	Learning (time-permitting) how to make an exploded view of an assembly and subsequentially animating it.
 
-**Session Activity:**
+**Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
+*	A [20x20 LEGO base plate](https://cdn.thingiverse.com/renders/1a/00/7d/4c/98/6772da62fb1c7aa8d36c046b39b84e32_preview_featured.jpg).
+*	A standard [2x4 LEGO block](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg).
+*	A [LEGO Universe Bob minifigure](https://img.brickowl.com/files/image_cache/larger/lego-universe-bob-minifigure-25.jpg) assembly.
+*	A [simple LEGO house](https://www.holmesmurphy.com/wp-content/uploads/2016/12/Lego-House_Blue.jpg) assembly.
 
-**To do (optional):**
+**To do (optional):** Add 4 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
 **Class Recordings:** To be posted.
 
@@ -170,11 +182,16 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 ### Session 7: Design Tables and Equations! 
 (Monday, January 29)
 
-**Objective:**
+**Objective:** In this session, we’ll investigate two often underappreciated yet extremely useful tools, design tables and equations. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 7’s goals include:
+*	Changing names of sketches and features under the feature tree.
+*	Learning how to create equations and incorporate them into a design table.
+*	Creating configurations of the same model.
 
-**Session Activity:**
+**Session Activity:** Using the tools learned on Session 7, we’ll design a variety of items, including:
+*	A set of [6 screw drivers](https://5685-cdn.doitbest.com/Data/ItemImage-309397-q5vqsm-8d8l3c-9i17n1.jpg?AutoCrop=1&CropHeight=1440&CropWidth=1440&Height=1440&Padding=1&Quality=50&Resize=Auto&Revision=JBCG&Timestamp=0VnsFG&Width=1440), including 3 flat-head and 3 Phillips-head, of various dimensions.
+*	A set of 4 different [drone](https://media.wired.com/photos/59264baf7034dc5f91beaf03/master/w_2560%2Cc_limit/DroneTA_GettyImages-599365398.jpg) configurations, varying the number of rotors, blades in each rotor, or the overall drone size.
 
-**To do (optional):**
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
 **Class Recordings:** To be posted.
 
@@ -187,11 +204,16 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 ### Session 8: It's not engineering without drawings!
 (Wednesday, January 31)
 
-**Objective:**
+**Objective:** In this session, we’ll exploit one of Solidworks’ built-in best features, its drawing-creation workspace. In essence, after creating a part or assembly model, it is possible to create an engineering drawing of it.
+Session 8’s goals include:
+*	Learning how to create an engineering drawing of a part and assembly (including exploded views).
+*	Exploring the best-practices of drawing creation, including different formats and information to be conveyed (such as tolerancing, material properties).
 
-**Session Activity:**
+**Session Activity:** Using the tools learned on Session 8, we’ll design a variety of items, including:
+*	A [wooden manikin](https://images.ctfassets.net/f1fikihmjtrp/4dvHxgg2TXI8tXXi1n8pPa/052b23016c0607120f609b0329e2ed1d/21651-1002-2-4ww.jpg), in the form of a test dummy (each individual part put into an assembly). 
+*	A set of engineering drawings of the manikin’s assembly and each of its constituent parts.
 
-**To do (optional):**
+**To do (optional):** Add 2-X slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
 **Class Recordings:** To be posted.
 
@@ -204,11 +226,15 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 ### Session 9: It's not mechanical design without gears! 
 (Friday, January 9)
 
-**Objective:**
+**Objective:** In this final session, we’ll dive into one common machine part often synonymous with mechanical design, gears! Many objects from our daily lives are equipped with gears, so it is important to understand what role they play and how to use them effectively. Session 9’s goals include: 
+*	Understanding the theory behind [gears and their sizing/ratios](https://auto.howstuffworks.com/gears.htm).
+*	Learning how to design gears in Solidworks and establishing mechanical mates between them.
+*	Making an animation providing a motor torque.
 
-**Session Activity:**
+**Session Activity:** Using the tools learned on Session 9, we’ll design a variety of items, including:
+*	A [spinning teacups (Mad Hatter)](https://media.disneylandparis.com/d4th/en-gb/images/n017931_2050jan01_mad-hatters-tea-cups_16-9_tcm752-159886.jpg) miniature model, incorporating gear and [circular-to-linear motion](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a8c69e2452109133fe5c48a08c0535c7/large.jpg) features.
 
-**To do (optional):**
+**To do (optional):** Add 1-X slide to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
 **Class Recordings:** To be posted.
 

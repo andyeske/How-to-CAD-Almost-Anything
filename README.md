@@ -64,6 +64,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%201) folder.
 
+<p float="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%201/Cake.png" width="400"> 
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%201/iPhone6.png" width="400">
+  <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%201/N2Pencil.png" width="400">
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

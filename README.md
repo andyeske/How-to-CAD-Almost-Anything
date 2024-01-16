@@ -104,13 +104,13 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 **Class Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%202) folder.
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%202/Panda%20Logo.png" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%202/Hawaii%20Map.png" width="500"> 
 
 **Figure:** _A Topographic Map of the Big Island of Hawaii_.
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%202/Hawaii%20Map.png" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%202/Panda%20Logo.png" width="500"> 
 
 **Figure:** _A Panda Express Keychain_.
 </p>

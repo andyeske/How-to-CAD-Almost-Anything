@@ -137,6 +137,13 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Class Slides:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%203) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%203/Carbon%20Nanotubes.png" width="500"> 
+
+**Figure:** _An attempt at a Carbon nanotube structure_.
+</p>
+
+
 ([ back to top ](#back_to_top))
 
 ---

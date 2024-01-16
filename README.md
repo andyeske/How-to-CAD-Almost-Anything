@@ -143,6 +143,11 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 **Figure:** _An attempt at a Carbon nanotube structure_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%203/Fidget%20Spinner.png" width="500"> 
+
+**Figure:** _A funky-looking fidget spinner_.
+</p>
 
 ([ back to top ](#back_to_top))
 
@@ -193,7 +198,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 ---
 <a name="S6"></a>
-### Session 6: Living in a world made from plastic bricks 
+### Session 6: Living in a world made from plastic bricks! 
 (Friday, January 26)
 
 **Objective:** In this session, we’ll move towards one of the most powerful features within Solidworks, which is that of making assemblies! Session 6’s goals include: 

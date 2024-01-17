@@ -173,6 +173,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Session Slides:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%204) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%204/Banana.png" width="500"> 
+
+**Figure:** _An attempt at a [5-sided](https://www.youtube.com/watch?v=vdD7nFIt6bo) green banana_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

@@ -17,9 +17,11 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Instructor:** [Andy Eskenazi](https://lae.mit.edu/team/andy-eskenazi/) (MIT LAE PhD Student).
 
-**Meeting Times:** MWF 10:00am - 12:00pm (Morning Cohort) and 3:30pm - 5:30pm (Afternoon Cohort), January 16 - February 2.
+**Meeting Times:** MWF 10:00am - 12:00pm (Morning Cohort) and 3:30pm - 5:30pm (Afternoon Cohort), Jan 16 - Feb 2.
 
 **Meeting Room:** [GIS & Data Lab](https://libraries.mit.edu/data-services/gis-data-lab/), Rotch Library (7-238).
+
+**Office Hours:** Wednesdays 2:30pm - 3:30pm (GIS & Data Lab), Sundays 2:00pm - 3:00pm (Rotch Library main floor).
 
 **Prerequisites:** Willingness to have fun and think outside the box!
 

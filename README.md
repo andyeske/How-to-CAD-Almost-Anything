@@ -60,9 +60,9 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=XCfxQDCIZr0.
 
-**Class Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%201) folder.
+**Session Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%201) folder.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%201/Cake.png" width="500"> 
@@ -99,9 +99,9 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** To be posted.
 
-**Class Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%202) folder.
+**Session Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%202) folder.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%202/Hawaii%20Map.png" width="500"> 
@@ -133,9 +133,9 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** To be posted.
 
-**Class Slides:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%203) folder.
+**Session Slides:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%203) folder.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%203/Carbon%20Nanotubes.png" width="500"> 
@@ -167,9 +167,9 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 3 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** To be posted.
 
-**Class Slides:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%204) folder.
+**Session Slides:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%204) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -190,9 +190,9 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 2 (or 3) slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** To be posted.
 
-**Class Slides:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%205) folder.
+**Session Slides:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%205) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -213,9 +213,9 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 4 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** To be posted.
 
-**Class Slides:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%206) folder.
+**Session Slides:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%206) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -235,9 +235,9 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** To be posted.
 
-**Class Slides:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%207) folder.
+**Session Slides:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%207) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -257,9 +257,9 @@ Session 8’s goals include:
 
 **To do (optional):** Add 2-X slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** To be posted.
 
-**Class Slides:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%208) folder.
+**Session Slides:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%208) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -278,9 +278,9 @@ Session 8’s goals include:
 
 **To do (optional):** Add 1-X slide to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Class Recordings:** To be posted.
+**Session Recordings:** To be posted.
 
-**Class Slides:** Available at the [Session 9](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%209) folder.
+**Session Slides:** Available at the [Session 9](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%209) folder.
 
 ([ back to top ](#back_to_top))
 

@@ -135,7 +135,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=93-cS4nE8fA.
 
 **Session Slides:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%203) folder.
 
@@ -149,6 +149,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%203/Fidget%20Spinner.png" width="500"> 
 
 **Figure:** _A funky-looking fidget spinner_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%203/Watch.png" width="500"> 
+
+**Figure:** _BONUS: An attempt at a watch!_.
 </p>
 
 ([ back to top ](#back_to_top))

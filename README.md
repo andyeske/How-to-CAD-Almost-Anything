@@ -185,6 +185,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 **Figure:** _An attempt at a [5-sided](https://www.youtube.com/watch?v=vdD7nFIt6bo) green banana_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%204/Sydney%20Control%20Tower.png" width="500"> 
+
+**Figure:** _A cool model of the Sydney Airport Control Tower_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

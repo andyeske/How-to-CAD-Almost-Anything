@@ -226,6 +226,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Session Slides:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%205) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%205/Diet%20Coke%20Can.png" width="500"> 
+
+**Figure:** _A Diet Coke 12oz can_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

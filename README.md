@@ -182,13 +182,13 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%204/Boat%20Hull%20Wire%20Frame.png" width="500"> 
 
-**Figure:** _Boat Hull Wire Frame (in preparation for the lofting process)_.
+**Figure:** _Boat hull wire frame (in preparation for the lofting process)_.
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%204/Boat%20Hull.png" width="500"> 
 
-**Figure:** _A Simple Boat Hull_.
+**Figure:** _A simple boat hull_.
 </p>
 
 <p align="left">

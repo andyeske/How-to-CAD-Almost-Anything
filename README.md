@@ -232,6 +232,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 **Figure:** _A Diet Coke 12oz can_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%205/Saturn%20V%20Model.png" width="500"> 
+
+**Figure:** _A Saturn V model_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

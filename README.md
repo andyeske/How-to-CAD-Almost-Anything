@@ -175,7 +175,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 3 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://youtu.be/Tmf6dkjue6E.
 
 **Session Slides:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%204) folder.
 
@@ -201,6 +201,18 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%204/Banana.png" width="500"> 
 
 **Figure:** _An attempt at a [5-sided](https://www.youtube.com/watch?v=vdD7nFIt6bo) green banana_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%204/Crane.png" width="500"> 
+
+**Figure:** _BONUS 1: A construction crane model_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%204/Squash%20Racquet.png" width="500"> 
+
+**Figure:** _BONUS 2: A squash racquet_.
 </p>
 
 ([ back to top ](#back_to_top))

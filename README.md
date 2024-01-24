@@ -250,6 +250,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 **Figure:** _A Saturn V model_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%205/Brass%20Rat.png" width="500"> 
+
+**Figure:** _A Brass Rat/Grad Rat MIT ring_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

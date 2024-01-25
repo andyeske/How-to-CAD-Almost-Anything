@@ -234,7 +234,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **To do (optional):** Add 2 (or 3) slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=3HP-02xBwlw.
 
 **Session Slides:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%205) folder.
 

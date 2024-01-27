@@ -288,7 +288,7 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 </p>
 
 <p align="left">
-<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%205/Brass%20Rat.png" width="500"> 
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%206/2x4%20LEGO%20block.png" width="500"> 
 
 **Figure:** _A standard 2x4 LEGO brick_.
 </p>

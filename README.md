@@ -281,6 +281,30 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Session Slides:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%206) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%206/24x24%20LEGO%20plate.png" width="500"> 
+
+**Figure:** _A 24x24 LEGO base plate_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%205/Brass%20Rat.png" width="500"> 
+
+**Figure:** _A standard 2x4 LEGO brick_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%206/LEGO%20Minifigure.png" width="500"> 
+
+**Figure:** _An MIT-branded LEGO minifig_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%206/LEGO%20House.png" width="500"> 
+
+**Figure:** _A LEGO house with its minifig inhabitant_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

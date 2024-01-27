@@ -83,6 +83,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Figure:** _A #2 Pencil_.
 </p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%201/Pencil%20Drawing.png" width="500">
+
+**Figure:** _BONUS: #2 Pencil drawing_.
+</p>
   
 ([ back to top ](#back_to_top))
 
@@ -291,6 +297,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%206/2x4%20LEGO%20block.png" width="500"> 
 
 **Figure:** _A standard 2x4 LEGO brick_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%206/LEGO%20Drawing.png" width="500"> 
+
+**Figure:** _BONUS: 2x4 LEGO brick drawing_.
 </p>
 
 <p align="left">

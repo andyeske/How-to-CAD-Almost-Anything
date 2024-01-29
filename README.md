@@ -339,6 +339,18 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 
 **Session Slides:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%207) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%207/Screwdrivers.png" width="500"> 
+
+**Figure:** _A set of 6 screwdriver configurations_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%207/Drones.png" width="500"> 
+
+**Figure:** _A set of 4 drone configurations_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

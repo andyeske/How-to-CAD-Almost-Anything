@@ -351,6 +351,12 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 **Figure:** _A set of 4 drone configurations_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%207/Helicopters.png" width="500"> 
+
+**Figure:** _BONUS: A set of 4 helicopter models_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

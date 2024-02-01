@@ -386,6 +386,12 @@ Session 8’s goals include:
 </p>
 
 <p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%208/Mannequin%20Drawing.png" width="500"> 
+
+**Figure:** _Mannequin assembly exploded view drawing with BOM_.
+</p>
+
+<p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%208/Wii%20Mii.png" width="500"> 
 
 **Figure:** _BONUS: A simplified "Wii Mii"!_.

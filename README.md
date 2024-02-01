@@ -385,6 +385,12 @@ Session 8’s goals include:
 **Figure:** _An attempt at a mannequin model_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%208/Wii%20Mii.png" width="500"> 
+
+**Figure:** _BONUS: A simplified "Wii Mii"!_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---

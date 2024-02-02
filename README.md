@@ -418,6 +418,12 @@ Session 8’s goals include:
 
 **Session Slides:** Available at the [Session 9](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%209) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%209/Mad%20Hatter%20Tea%20Cups.png" width="500"> 
+
+**Figure:** _A Mad Hatter-inspired Spinning Tea Cups_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ## Workshop Portfolio (Optional)

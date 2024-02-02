@@ -424,6 +424,18 @@ Session 8’s goals include:
 **Figure:** _A Mad Hatter-inspired Spinning Tea Cups_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%209/Simplified%20Spinning%20Tea%20Cups.png" width="500"> 
+
+**Figure:** _BONUS: Simplified Spinning Tea Cups Model_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%209/Simplified%20Spinning%20Coffee%20Cups.png" width="500"> 
+
+**Figure:** _BONUS: Simplified Spinning Coffee Cups Model_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ## Workshop Portfolio (Optional)

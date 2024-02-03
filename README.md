@@ -414,7 +414,7 @@ Session 8’s goals include:
 
 **To do (optional):** Add 1-X slide to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=ZSuKBjKcO44.
 
 **Session Slides:** Available at the [Session 9](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files/Session%209) folder.
 

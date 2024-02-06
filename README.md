@@ -441,3 +441,37 @@ Session 8’s goals include:
 ## Workshop Portfolio (Optional)
 
 “How to CAD almost anything!” is a purely project-based workshop, with most, if not all the projects taking place as session activities. As a result, the workshop does not have any form of “homework”, other than additional work that the student is willing to put to expand on the in-class activities. However, as mentioned above, one of the purposes of this workshop is for the student to build a portfolio of projects, one which can be used to showcase its 3D-modeling skills. Hence, as an optional workshop activity, the student will be able to create a portfolio presentation, consisting of the slides made during/after each session. Although this is an ungraded activity, the student is encouraged to be creative and use this as an opportunity to showcase its learnings! Feel free to include screenshots from the Solidworks workspace, rendered images, animations, engineering drawings or anything deemed appropriate. Additionally, including one last slide with thoughts about the workshop and recommendations to make it even better next time would be greatly appreciated!
+
+## Pictures/Hall of Fame
+
+Here are some pictures from the IAP 2024 workshop, including some selected student creations!
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Mis/Morning%20Session.jpeg" width="500"> 
+
+**Figure:** _Morning Session Student Cohort_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Mis/Afternoon%20Session.jpeg" width="500"> 
+
+**Figure:** _Afternoon Session Student Cohort_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Mis/Emma%20Scott.png" width="500"> 
+
+**Figure:** _Spinning Tea Cups, by Emma Scott_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Mis/Hector%20Astrom.png" width="500"> 
+
+**Figure:** _Session 2 Logo, by Hector Astrom_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Mis/John%20Dwyer.png" width="500"> 
+
+**Figure:** _Spinning Tea Cups, by John Dwyer_.
+</p>

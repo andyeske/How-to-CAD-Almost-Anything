@@ -475,3 +475,15 @@ Here are some pictures from the IAP 2024 workshop, including some selected stude
 
 **Figure:** _Spinning Tea Cups, by John Dwyer_.
 </p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Mis/Vinn%20Nguyen%201.JPG" width="500"> 
+
+**Figure:** _A cool snowman, by Vinn Nguyen_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Mis/Vinn%20Nguyen%202.JPG" width="500"> 
+
+**Figure:** _Beaver Beverage, by Vinn Nguyen_.
+</p>

@@ -487,3 +487,7 @@ Here are some pictures from the IAP 2024 workshop, including some selected stude
 
 **Figure:** _Beaver Beverage, by Vinn Nguyen_.
 </p>
+
+## Enrollment Statistics
+
+How to CAD Almost Anything: MIT IAP 2024 saw a total of 130 students enrolled. The students that attended in-person hailed from 9 MIT departments: 2 (44%), 3 (3%), 4 (3%), 6 (18%), 10 (5%), 16 (15%), 18 (3%), 22 (3%) and SDM (3%).

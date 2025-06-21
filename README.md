@@ -13,6 +13,8 @@ Through the workshop’s 9 sessions, the goal is for the student to:
 * Have built a comprehensive design portfolio, in the form of a presentation (see Workshop Portfolio (optional) section below), to showcase all the different in-class projects and Solidworks skills mastered.
 * Feel that it can take any object and exclaim, “I know how to CAD this!”.
 
+A follow-up, more advanced version of this workshop (focusing on more complicated objected and assemblies) was taught in the summer of 2025, and can be found here: https://github.com/andyeske/How-to-CAD-Disney.
+
 ## Workshop Details
 
 **Instructor:** [Andy Eskenazi](https://lae.mit.edu/team/andy-eskenazi/) (MIT LAE PhD Student).

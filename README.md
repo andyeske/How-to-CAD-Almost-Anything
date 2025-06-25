@@ -62,11 +62,11 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 * Coloring parts and changing material properties.
 
 **Session Activity:** Using the tools learned on Session 1, we’ll design a variety of items, including:
-*	A cake
-*	An iPhone 6 (give it a shot just by looking at a picture online)
-*	A pencil (using an engineering drawing)
+*	A cake.
+*	An iPhone 6 (give it a shot just by looking at a [picture](https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111940_SP705-iphone_6-mul.png) online).
+*	A pencil (using an engineering drawing).
 
-**To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=XCfxQDCIZr0.
 
@@ -111,7 +111,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	A 3D model of a topographical geographical map, such as the [Big Island in Hawaii](https://seanshawaiianvacation.weebly.com/uploads/1/3/5/9/13590030/6795329_orig.gif).
 *	A keychain of your favorite logo. 
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=4fcvDSAFNGo.
 
@@ -145,7 +145,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	An airplane constant-area airfoil fidget spinner (using spline, sketch picture, revolve and circular pattern) with split-scimitar winglets and a jet-engine!
 *	A carbon nanotube (honeycomb) tower (using circular and linear patterns and planes).
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=93-cS4nE8fA.
 
@@ -185,7 +185,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	An airport control tower (using loft, sweep, revolve, and patterns).
 *	A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
-**To do (optional):** Add 3 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 3 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://youtu.be/Tmf6dkjue6E.
 
@@ -206,7 +206,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Almost-Anything/blob/main/Session%20Files/Session%204/Sydney%20Control%20Tower.png" width="500"> 
 
-**Figure:** _A cool model of the Sydney Airport Control Tower_.
+**Figure:** _A cool model of the Sydney Airport [Control Tower](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sydney_Airport_Control_Tower.jpg/960px-Sydney_Airport_Control_Tower.jpg)_.
 </p>
 
 <p align="left">
@@ -240,11 +240,11 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	Making renders using Solidworks’ in-house tool.
 
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
-*	A Diet Coke 12oz can (with labels included). 
+*	A Diet Coke [12oz can](https://i5.walmartimages.com/asr/ea26ba5c-dafa-4e8d-94c1-2a87995653b5.630289760d208771432fd1bd81fd5f7d.jpeg) (with labels included). 
 *	A realistic-looking Saturn V rocket. 
 *	Optional: an [MIT Brass Rat](https://koblenzestatejewelry.com/wp-content/uploads/2021/10/15980FGoldBrassRatMITRing.jpg) ring. 
 
-**To do (optional):** Add 2 (or 3) slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 2 (or 3) slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=3HP-02xBwlw.
 
@@ -285,7 +285,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	A [LEGO Universe Bob minifigure](https://img.brickowl.com/files/image_cache/larger/lego-universe-bob-minifigure-25.jpg) assembly.
 *	A [simple LEGO house](https://www.holmesmurphy.com/wp-content/uploads/2016/12/Lego-House_Blue.jpg) assembly.
 
-**To do (optional):** Add 4 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 4 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=VuvurL76Npo.
 
@@ -339,7 +339,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	A set of [6 screw drivers](https://5685-cdn.doitbest.com/Data/ItemImage-309397-q5vqsm-8d8l3c-9i17n1.jpg?AutoCrop=1&CropHeight=1440&CropWidth=1440&Height=1440&Padding=1&Quality=50&Resize=Auto&Revision=JBCG&Timestamp=0VnsFG&Width=1440), including 3 flat-head and 3 Phillips-head, of various dimensions.
 *	A set of 4 different [drone](https://media.wired.com/photos/59264baf7034dc5f91beaf03/master/w_2560%2Cc_limit/DroneTA_GettyImages-599365398.jpg) configurations, varying the number of rotors, blades in each rotor, or the overall drone size.
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=zXzP4uC_-ZI.
 
@@ -379,7 +379,7 @@ Session 8’s goals include:
 *	A [wooden manikin](https://images.ctfassets.net/f1fikihmjtrp/4dvHxgg2TXI8tXXi1n8pPa/052b23016c0607120f609b0329e2ed1d/21651-1002-2-4ww.jpg), in the form of a test dummy (each individual part put into an assembly). 
 *	A set of engineering drawings of the manikin’s assembly and each of its constituent parts.
 
-**To do (optional):** Add 2-X slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 2-X slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=gro-7lpr3lc.
 
@@ -418,7 +418,7 @@ Session 8’s goals include:
 **Session Activity:** Using the tools learned on Session 9, we’ll design a variety of items, including:
 *	A [spinning teacups (Mad Hatter)](https://media.disneylandparis.com/d4th/en-gb/images/n017931_2050jan01_mad-hatters-tea-cups_16-9_tcm752-159886.jpg) miniature model, incorporating gear and [circular-to-linear motion](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a8c69e2452109133fe5c48a08c0535c7/large.jpg) features.
 
-**To do (optional):** Add 1-X slide to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed to during the design process.
+**To do (optional):** Add 1-X slide to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=ZSuKBjKcO44.
 

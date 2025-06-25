@@ -27,7 +27,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 
 **Prerequisites:** Willingness to have fun and think outside the box!
 
-**Software:** [Dassault Systèmes Solidworks](https://www.solidworks.com/).
+**Software:** Dassault Systèmes [Solidworks](https://www.solidworks.com/).
 
 **Notes:**
 * The first sessions start on 01/16/24, which falls on a Tuesday!

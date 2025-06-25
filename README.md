@@ -27,6 +27,8 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 
 **Prerequisites:** Willingness to have fun and think outside the box!
 
+**Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Almost-Anything/tree/main/Session%20Files) folder.
+
 **Software:** Dassault Systèmes [Solidworks](https://www.solidworks.com/).
 
 **Notes:**

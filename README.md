@@ -6,11 +6,11 @@ Welcome to How to CAD Almost Anything! In this repository, you'll find the works
 
 Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a mug, a bottle of Diet Coke, or a Saturn V rocket? What about designing the blades of a jet-engine? A test dummy? How about making an animation of a LEGO house building itself? Or making a realistic render of a bowl of fruit? In this MIT AeroAstro workshop, you will learn the skills to design all of these, and much more! 
 
-Split into 9 2-hour long sessions, the first half of each session will be spent learning new [Solidworks](https://www.solidworks.com/) skills, while the second half will see the application of these news skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, but about independent thinking and strategizing, reverse engineering an object into a 3D model. 
+Split into 9 2-hour long sessions, the first half of each session will be spent learning new Dassault Systèmes [SolidWorks](https://www.solidworks.com/) skills, while the second half will see the application of these news skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, but about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
 Through the workshop’s 9 sessions, the goal is for the student to:
-* Have learned all the essential Solidworks skills, enough to be able to pass the industry-standard Mechanical Design [CSWA](https://www.solidworks.com/certifications/mechanical-design-cswa-mechanical-design) exam.
-* Have built a comprehensive design portfolio, in the form of a presentation (see Workshop Portfolio (optional) section below), to showcase all the different in-class projects and Solidworks skills mastered.
+* Have learned all the essential SolidWorks skills, enough to be able to pass the industry-standard Mechanical Design [CSWA](https://www.solidworks.com/certifications/mechanical-design-cswa-mechanical-design) exam.
+* Have built a comprehensive design portfolio, in the form of a presentation (see Workshop Portfolio (optional) section below), to showcase all the different in-class projects and SolidWorks skills mastered.
 * Feel that it can take any object and exclaim, “I know how to CAD this!”.
 
 A follow-up, more advanced version of this workshop (focusing on more complicated objected and assemblies) was taught in the summer of 2025, and can be found here: https://github.com/andyeske/How-to-CAD-Disney.
@@ -51,10 +51,10 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 
 ---
 <a name="S1"></a>
-### Session 1: Introduction to Solidworks!
+### Session 1: Introduction to SolidWorks!
 (Tuesday, January 16)
 
-**Objective:** In this session, we’ll get ourselves acquainted with the Solidworks workspace, and start learning some of the most used tools. Session 1's goals include:
+**Objective:** In this session, we’ll get ourselves acquainted with the SolidWorks workspace, and start learning some of the most used tools. Session 1's goals include:
 * Creating sketches (using basic shapes, construction lines, smart-dimensioning, sketch relationships) and understanding planes.
 * Understanding what it means for a sketch to be fully defined.
 * Locating and using the different elementary feature commands (boss extrude, boss cut, fillet, chamfer).
@@ -66,7 +66,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	An iPhone 6 (give it a shot just by looking at a [picture](https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111940_SP705-iphone_6-mul.png) online).
 *	A pencil (using an engineering drawing).
 
-**To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Create a presentation (Powerpoint/Google Slides) and title it “Projects Portfolio”.  There, add 3 slides, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=XCfxQDCIZr0.
 
@@ -103,7 +103,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 ### Session 2: Splines, Sketch Pictures, and some Geography!
 (Wednesday, January 17)
 
-**Objective:** In this session, we’ll continue exploring some of the most powerful Solidworks tools. Session 2’s goals include:
+**Objective:** In this session, we’ll continue exploring some of the most powerful SolidWorks tools. Session 2’s goals include:
 *	Learning how to use the spline tool.
 *	Learning how to add a picture and sketch on it.
 
@@ -111,7 +111,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	A 3D model of a topographical geographical map, such as the [Big Island in Hawaii](https://seanshawaiianvacation.weebly.com/uploads/1/3/5/9/13590030/6795329_orig.gif).
 *	A keychain of your favorite logo. 
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=4fcvDSAFNGo.
 
@@ -145,7 +145,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	An airplane constant-area airfoil fidget spinner (using spline, sketch picture, revolve and circular pattern) with split-scimitar winglets and a jet-engine!
 *	A carbon nanotube (honeycomb) tower (using circular and linear patterns and planes).
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=93-cS4nE8fA.
 
@@ -176,7 +176,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 ### Session 4: Loft, not lift!
 (Monday, January 22)
 
-**Objective:** In this session, we’ll explore two very powerful Solidworks tools, loft and sweep. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
+**Objective:** In this session, we’ll explore two very powerful SolidWorks tools, loft and sweep. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
 *	Learning how to use the lofting and sweep command.
 *	Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
@@ -185,7 +185,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	An airport control tower (using loft, sweep, revolve, and patterns).
 *	A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
-**To do (optional):** Add 3 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Add 3 slides to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://youtu.be/Tmf6dkjue6E.
 
@@ -237,14 +237,14 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 **Objective:** In this session, we’ll revise all of our previously learned commands (+ the useful wrap), to make sure we know how to properly use all of them. Session 5’s goals include: 
 *	Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties. 
 *	Learning how to employ the wrap command (for engravings).
-*	Making renders using Solidworks’ in-house tool.
+*	Making renders using SolidWorks’ in-house tool.
 
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
 *	A Diet Coke [12oz can](https://i5.walmartimages.com/asr/ea26ba5c-dafa-4e8d-94c1-2a87995653b5.630289760d208771432fd1bd81fd5f7d.jpeg) (with labels included). 
 *	A realistic-looking Saturn V rocket. 
 *	Optional: an [MIT Brass Rat](https://koblenzestatejewelry.com/wp-content/uploads/2021/10/15980FGoldBrassRatMITRing.jpg) ring. 
 
-**To do (optional):** Add 2 (or 3) slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Add 2 (or 3) slides to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=3HP-02xBwlw.
 
@@ -275,7 +275,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 ### Session 6: Living in a world made from plastic bricks! 
 (Friday, January 26)
 
-**Objective:** In this session, we’ll move towards one of the most powerful features within Solidworks, which is that of making assemblies! Session 6’s goals include: 
+**Objective:** In this session, we’ll move towards one of the most powerful features within SolidWorks, which is that of making assemblies! Session 6’s goals include: 
 *	Learning how to make an assembly of multiple parts.
 *	Learning (time-permitting) how to make an exploded view of an assembly and subsequentially animating it.
 
@@ -285,7 +285,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	A [LEGO Universe Bob minifigure](https://img.brickowl.com/files/image_cache/larger/lego-universe-bob-minifigure-25.jpg) assembly.
 *	A [simple LEGO house](https://www.holmesmurphy.com/wp-content/uploads/2016/12/Lego-House_Blue.jpg) assembly.
 
-**To do (optional):** Add 4 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Add 4 slides to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=VuvurL76Npo.
 
@@ -339,7 +339,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	A set of [6 screw drivers](https://5685-cdn.doitbest.com/Data/ItemImage-309397-q5vqsm-8d8l3c-9i17n1.jpg?AutoCrop=1&CropHeight=1440&CropWidth=1440&Height=1440&Padding=1&Quality=50&Resize=Auto&Revision=JBCG&Timestamp=0VnsFG&Width=1440), including 3 flat-head and 3 Phillips-head, of various dimensions.
 *	A set of 4 different [drone](https://media.wired.com/photos/59264baf7034dc5f91beaf03/master/w_2560%2Cc_limit/DroneTA_GettyImages-599365398.jpg) configurations, varying the number of rotors, blades in each rotor, or the overall drone size.
 
-**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Add 2 slides to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=zXzP4uC_-ZI.
 
@@ -370,7 +370,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 ### Session 8: It's not engineering without drawings!
 (Wednesday, January 31)
 
-**Objective:** In this session, we’ll exploit one of Solidworks’ built-in best features, its drawing-creation workspace. In essence, after creating a part or assembly model, it is possible to create an engineering drawing of it.
+**Objective:** In this session, we’ll exploit one of SolidWorks’ built-in best features, its drawing-creation workspace. In essence, after creating a part or assembly model, it is possible to create an engineering drawing of it.
 Session 8’s goals include:
 *	Learning how to create an engineering drawing of a part and assembly (including exploded views).
 *	Exploring the best-practices of drawing creation, including different formats and information to be conveyed (such as tolerancing, material properties).
@@ -379,7 +379,7 @@ Session 8’s goals include:
 *	A [wooden manikin](https://images.ctfassets.net/f1fikihmjtrp/4dvHxgg2TXI8tXXi1n8pPa/052b23016c0607120f609b0329e2ed1d/21651-1002-2-4ww.jpg), in the form of a test dummy (each individual part put into an assembly). 
 *	A set of engineering drawings of the manikin’s assembly and each of its constituent parts.
 
-**To do (optional):** Add 2-X slides to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Add 2-X slides to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=gro-7lpr3lc.
 
@@ -412,13 +412,13 @@ Session 8’s goals include:
 
 **Objective:** In this final session, we’ll dive into one common machine part often synonymous with mechanical design, gears! Many objects from our daily lives are equipped with gears, so it is important to understand what role they play and how to use them effectively. Session 9’s goals include: 
 *	Understanding the theory behind [gears and their sizing/ratios](https://auto.howstuffworks.com/gears.htm).
-*	Learning how to design gears in Solidworks and establishing mechanical mates between them.
+*	Learning how to design gears in SolidWorks and establishing mechanical mates between them.
 *	Making an animation providing a motor torque.
 
 **Session Activity:** Using the tools learned on Session 9, we’ll design a variety of items, including:
 *	A [spinning teacups (Mad Hatter)](https://media.disneylandparis.com/d4th/en-gb/images/n017931_2050jan01_mad-hatters-tea-cups_16-9_tcm752-159886.jpg) miniature model, incorporating gear and [circular-to-linear motion](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a8c69e2452109133fe5c48a08c0535c7/large.jpg) features.
 
-**To do (optional):** Add 1-X slide to the portfolio, one for each designed item, with pictures and a short description of the Solidworks skills employed during the design process.
+**To do (optional):** Add 1-X slide to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.
 
 **Session Recordings:** https://www.youtube.com/watch?v=ZSuKBjKcO44.
 
@@ -446,7 +446,7 @@ Session 8’s goals include:
 
 ## Workshop Portfolio (Optional)
 
-“How to CAD almost anything!” is a purely project-based workshop, with most, if not all the projects taking place as session activities. As a result, the workshop does not have any form of “homework”, other than additional work that the student is willing to put to expand on the in-class activities. However, as mentioned above, one of the purposes of this workshop is for the student to build a portfolio of projects, one which can be used to showcase its 3D-modeling skills. Hence, as an optional workshop activity, the student will be able to create a portfolio presentation, consisting of the slides made during/after each session. Although this is an ungraded activity, the student is encouraged to be creative and use this as an opportunity to showcase its learnings! Feel free to include screenshots from the Solidworks workspace, rendered images, animations, engineering drawings or anything deemed appropriate. Additionally, including one last slide with thoughts about the workshop and recommendations to make it even better next time would be greatly appreciated!
+“How to CAD almost anything!” is a purely project-based workshop, with most, if not all the projects taking place as session activities. As a result, the workshop does not have any form of “homework”, other than additional work that the student is willing to put to expand on the in-class activities. However, as mentioned above, one of the purposes of this workshop is for the student to build a portfolio of projects, one which can be used to showcase its 3D-modeling skills. Hence, as an optional workshop activity, the student will be able to create a portfolio presentation, consisting of the slides made during/after each session. Although this is an ungraded activity, the student is encouraged to be creative and use this as an opportunity to showcase its learnings! Feel free to include screenshots from the SolidWorks workspace, rendered images, animations, engineering drawings or anything deemed appropriate. Additionally, including one last slide with thoughts about the workshop and recommendations to make it even better next time would be greatly appreciated!
 
 ## Pictures/Hall of Fame
 

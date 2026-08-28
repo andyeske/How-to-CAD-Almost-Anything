@@ -61,7 +61,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 * Editing sketches and features after creating them.
 * Coloring parts and changing material properties.
 
-**Session Activity:** Using the tools learned on Session 1, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 1, we’ll design three objects, namely:
 *	A cake.
 *	An iPhone 6 (give it a shot just by looking at a [picture](https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111940_SP705-iphone_6-mul.png) online).
 *	A pencil (using an engineering drawing).
@@ -107,7 +107,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	Learning how to use the spline tool.
 *	Learning how to add a picture and sketch on it.
 
-**Session Activity:** Using the tools learned on Session 2, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 2, we’ll design two objects, namely:
 *	A 3D model of a topographical geographical map, such as the [Big Island in Hawaii](https://seanshawaiianvacation.weebly.com/uploads/1/3/5/9/13590030/6795329_orig.gif).
 *	A keychain of your favorite logo. 
 
@@ -141,7 +141,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	Learning how to make use of the mirroring and circular patterns tools, both as a sketch and as a feature.
 *	Learning how to create planes, at different angles.
 
-**Session Activity:** Using the tools learned on Session 3, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 3, we’ll design two objects, namely:
 *	An airplane constant-area airfoil fidget spinner (using spline, sketch picture, revolve and circular pattern) with split-scimitar winglets and a jet-engine!
 *	A carbon nanotube (honeycomb) tower (using circular and linear patterns and planes).
 
@@ -180,7 +180,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	Learning how to use the lofting and sweep command.
 *	Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
-**Session Activity:** Using the tools learned on S4, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on S4, we’ll design three objects, namely:
 *	A 3D model from a [boat hull 2D plan](https://www.fao.org/3/V9468E/v9468e04.gif).
 *	An airport control tower (using loft, sweep, revolve, and patterns).
 *	A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
@@ -239,7 +239,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	Learning how to employ the wrap command (for engravings).
 *	Making renders using SolidWorks’ in-house tool.
 
-**Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 5, we’ll design three objects, namely:
 *	A Diet Coke [12oz can](https://i5.walmartimages.com/asr/ea26ba5c-dafa-4e8d-94c1-2a87995653b5.630289760d208771432fd1bd81fd5f7d.jpeg) (with labels included). 
 *	A realistic-looking Saturn V rocket. 
 *	Optional: an [MIT Brass Rat](https://koblenzestatejewelry.com/wp-content/uploads/2021/10/15980FGoldBrassRatMITRing.jpg) ring. 
@@ -279,7 +279,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	Learning how to make an assembly of multiple parts.
 *	Learning (time-permitting) how to make an exploded view of an assembly and subsequentially animating it.
 
-**Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 6, we’ll design a set of objects, namely:
 *	A [20x20 LEGO base plate](https://cdn.thingiverse.com/renders/1a/00/7d/4c/98/6772da62fb1c7aa8d36c046b39b84e32_preview_featured.jpg).
 *	A standard [2x4 LEGO block](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg).
 *	A [LEGO Universe Bob minifigure](https://img.brickowl.com/files/image_cache/larger/lego-universe-bob-minifigure-25.jpg) assembly.
@@ -335,7 +335,7 @@ A follow-up, more advanced version of this workshop (focusing on more complicate
 *	Learning how to create equations and incorporate them into a design table.
 *	Creating configurations of the same model.
 
-**Session Activity:** Using the tools learned on Session 7, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 7, we’ll design a set of objects, namely:
 *	A set of [6 screw drivers](https://5685-cdn.doitbest.com/Data/ItemImage-309397-q5vqsm-8d8l3c-9i17n1.jpg?AutoCrop=1&CropHeight=1440&CropWidth=1440&Height=1440&Padding=1&Quality=50&Resize=Auto&Revision=JBCG&Timestamp=0VnsFG&Width=1440), including 3 flat-head and 3 Phillips-head, of various dimensions.
 *	A set of 4 different [drone](https://media.wired.com/photos/59264baf7034dc5f91beaf03/master/w_2560%2Cc_limit/DroneTA_GettyImages-599365398.jpg) configurations, varying the number of rotors, blades in each rotor, or the overall drone size.
 
@@ -375,7 +375,7 @@ Session 8’s goals include:
 *	Learning how to create an engineering drawing of a part and assembly (including exploded views).
 *	Exploring the best-practices of drawing creation, including different formats and information to be conveyed (such as tolerancing, material properties).
 
-**Session Activity:** Using the tools learned on Session 8, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 8, we’ll design two objects, namely:
 *	A [wooden manikin](https://images.ctfassets.net/f1fikihmjtrp/4dvHxgg2TXI8tXXi1n8pPa/052b23016c0607120f609b0329e2ed1d/21651-1002-2-4ww.jpg), in the form of a test dummy (each individual part put into an assembly). 
 *	A set of engineering drawings of the manikin’s assembly and each of its constituent parts.
 
@@ -415,7 +415,7 @@ Session 8’s goals include:
 *	Learning how to design gears in SolidWorks and establishing mechanical mates between them.
 *	Making an animation providing a motor torque.
 
-**Session Activity:** Using the tools learned on Session 9, we’ll design a variety of items, including:
+**Session Activity:** Using the tools learned on Session 9, we’ll design one object, namely:
 *	A [spinning teacups (Mad Hatter)](https://media.disneylandparis.com/d4th/en-gb/images/n017931_2050jan01_mad-hatters-tea-cups_16-9_tcm752-159886.jpg) miniature model, incorporating gear and [circular-to-linear motion](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/a8c69e2452109133fe5c48a08c0535c7/large.jpg) features.
 
 **To do (optional):** Add 1-X slide to the portfolio, one for each designed item, with pictures and a short description of the SolidWorks skills employed during the design process.

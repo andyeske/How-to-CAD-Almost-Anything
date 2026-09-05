@@ -1,6 +1,6 @@
 <a name="back_to_top"></a>
 # How to CAD Almost Anything: MIT IAP 2024
-Welcome to How to CAD Almost Anything! In this repository, you'll find the workshop's slides, recordings and Solidworks files.
+Welcome to How to CAD Almost Anything! In this repository, you'll find the workshop's slides, recordings and Dassault Systèmes SolidWorks files.
 
 ## Workshop Summary
 
